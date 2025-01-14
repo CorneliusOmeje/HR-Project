@@ -10,6 +10,8 @@ By analyzing various aspects of the Dataset, i seek to identify:
 - The Total working days
 - The Percentage of employees working from home in a given period.
 - Which day of the week employees work from home the most.
+![Screenshot 2025-01-14 145105](https://github.com/user-attachments/assets/c7e6ec52-8258-4ee4-942f-d9ed78bef7d7)
+
 
 ## Tools used
 
@@ -34,6 +36,10 @@ EDA involves exploring the datasets to answer key questions such as:
 - What is the Total working days
 - What are the percentage of WFH
 - What are the percentage of SL
+![Screenshot 2025-01-14 145152](https://github.com/user-attachments/assets/4506e36f-e20f-4f62-9b56-e1c8a94904ae)
+![Screenshot 2025-01-14 145211](https://github.com/user-attachments/assets/2c09c469-2a70-44b7-88a9-08e7d00470c8)
+![Screenshot 2025-01-14 145252](https://github.com/user-attachments/assets/5e348c7a-5588-41f1-81ed-f0afde9d50bb)
+
 
 ## Findings
 
